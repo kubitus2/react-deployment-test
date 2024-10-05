@@ -1,7 +1,7 @@
 {
   "name": "react-deployment-test",
   "private": false,
-  "homepage": "*/react-deployment-test/",
+  "homepage": "https://kubitus2.github.io/react-deployment-test/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
