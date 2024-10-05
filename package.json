@@ -1,7 +1,7 @@
 {
   "name": "react-deployment-test",
   "private": false,
-  "homepage": "./",
+  "homepage": "*/react-deployment-test/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
